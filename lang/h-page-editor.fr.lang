@@ -1,0 +1,35 @@
+permission-name-manage-pages = "Gestion des pages"
+plugin-name = "Editeur de pages"
+
+manage-pages-menu-title = "Gestion des pages"
+
+pages-list-title = "Toutes les pages"
+new-page-button = "Créer une nouvelle page"
+pages-list-name-label = "Nom de la page"
+pages-list-uri-label = "Accèss URL"
+pages-list-author-label = "Autheur"
+pages-list-create-time-label = "Créé le"
+pages-list-update-time-label = "Dernière modification"
+
+page-form-title = "Editeur"
+page-form-description = "This page allows you to define all the parameters of your custom page. In All fields, if you want to publish this page in multiple languages, write the translations between the tags {lang} and {/lang}. <br /> For example, for your page title, if you want to write in English 'Hello World' and in French 'Bonjour le monde', write {en}Hello world{/en}{fr}Bonjour le monde{/fr}"
+page-form-name-label = "Nom de la page (pas affiché, juste une information pour l'administrateur)"
+page-form-title-label = "Titre de la page"
+page-form-uri-label = "Page URL : <code>{rooturl}</code>"
+page-form-active-label = "Activer la page ?"
+page-form-content-label = "Contenu de la page"
+
+delete-page-success = "La page a été supprimé avec succès"
+delete-page-error = "An error occured while removing the page"
+register-page-success = "La page a été enregistré avec succès"
+register-page-error= "An error occured while registering the page"
+
+page-form-preview-button = "Aperçu"
+page-preview-title = "Aperçu : {page}"
+
+; Settings
+settings-title = "Paramètres du plugin"
+settings-url-prefix-label = "Préfixe des URLs"
+
+; Je decouvre
+discovery-menu-title = "Je découvre..."

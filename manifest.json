@@ -1,0 +1,8 @@
+{
+    "title": "H Page Editor",
+    "description": "This plugin allows you to create your own web pages, if you want to transform Hawk as a website engine. In each page, you'll be able to design your page, make your translations, and set the SEO parameters to improve your website referencing",
+    "version": "0.0.1",
+    "author": "Elvyrra SAS",
+    "dependencies": [],
+    "logo" : "logo.png"
+}

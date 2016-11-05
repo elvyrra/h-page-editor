@@ -1,0 +1,28 @@
+permission-name-manage-pages = "Manage the pages"
+plugin-name = "Page Editor"
+
+manage-pages-menu-title = "Manage my application pages"
+
+pages-list-title = "All my pages"
+new-page-button = "Create a new page"
+pages-list-name-label = "Page name"
+pages-list-uri-label = "Access URL"
+pages-list-author-label = "Author"
+pages-list-create-time-label = "Created on"
+pages-list-update-time-label = "Last update"
+
+page-form-title = "Page edition"
+page-form-description = "This page allows you to define all the parameters of your custom page. In All fields, if you want to publish this page in multiple languages, write the translations between the tags {lang} and {/lang}. <br /> For example, for your page title, if you want to write in English 'Hello World' and in French 'Bonjour le monde', write {en}Hello world{/en}{fr}Bonjour le monde{/fr}"
+page-form-name-label = "Page name (not displayed, just an information for you)"
+page-form-title-label = "Page title"
+page-form-uri-label = "Page URL : <code>{rooturl}</code>"
+page-form-active-label = "Activate the page ?"
+page-form-content-label = "Page content"
+
+delete-page-success = "The page was successfully removed"
+delete-page-error = "An error occured while removing the page"
+register-page-success = "The page was successfully registered"
+register-page-error= "An error occured while registering the page"
+
+page-form-preview-button = "Preview"
+page-preview-title = "Preview : {page}"
